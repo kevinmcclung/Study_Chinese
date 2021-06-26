@@ -1,0 +1,174 @@
+<!--AS I EXPAND THIS COURSE,
+I WILL LOOK FOR A BETTER ALTERNATIVE TO PUTTING EVERY SENTENCE OF EVERY LESSON IN THIS XML FILE.
+OTHERWISE, LOADING LATER LESSONS MAY GET TO BE TOO SLOW BECAUSE OF ALL THE LINES THAT NEED TO BE PARSED.-->
+
+<resources>
+    <string name="app_name">Study Chinese</string>
+
+    <!--Lesson text follows. Lessons are numbered and sentences are lettered.-->
+
+    <array name="lessons">
+        <!--Lesson 1-->
+        <array name="lesson1">
+            <string-array name="sentence1">
+                <string name="chinese1">好。</string>
+                <string name="pinyin1">Hǎo.</string>
+                <string name="translation1">Good, okay.</string>
+            </string-array>
+            <string-array name="sentence2">
+                <string name="chinese2">不好。</string>
+                <string name="pinyin2">Bù hǎo.</string>
+                <string name="translation2">Not good, not okay.</string>
+            </string-array>
+            <string-array name="sentence3">
+                <string name="chinese3">好不好？</string>
+                <string name="pinyin3">Hǎo bù hǎo?</string>
+                <string name="translation3">Good? Okay?</string>
+            </string-array>
+            <string-array name="sentence4">
+                <string name="chinese4">很好。</string>
+                <string name="pinyin4">Hěn hǎo.</string>
+                <string name="translation4">Very good.</string>
+            </string-array>
+            <string-array name="sentence5">
+                <string name="chinese5">你好。</string>
+                <string name="pinyin5">Nǐ hǎo.</string>
+                <string name="translation5">Hello.</string>
+            </string-array>
+            <string-array name="sentence6">
+                <string name="chinese6">你好吗？</string>
+                <string name="pinyin6">Nǐ hǎo ma?</string>
+                <string name="translation6">Are you well?</string>
+            </string-array>
+            <string-array name="sentence7">
+                <string name="chinese7">你们好。</string>
+                <string name="pinyin7">Nǐmen hao.</string>
+                <string name="translation7">Hi, guys.</string>
+            </string-array>
+            <string-array name="sentence8">
+                <string name="chinese8">你们好吗？</string>
+                <string name="pinyin8">Nǐmen hǎo ma?</string>
+                <string name="translation8">Are you guys well?</string>
+            </string-array>
+            <string-array name="sentence9">
+                <string name="chinese9">我很好。</string>
+                <string name="pinyin9">Wǒ hěn hǎo.</string>
+                <string name="translation9">I\'m very good.</string>
+            </string-array>
+            <string-array name="sentence10">
+                <string name="chinese10">我们很好，谢谢。</string>
+                <string name="pinyin10">Wǒmen hěn hǎo, xièxie.</string>
+                <string name="translation10">We\'re very good, thanks.</string>
+            </string-array>
+        </array>
+        <!--Lesson 2-->
+        <array name="lesson2">
+            <string-array name="sentence11">
+                <string name="chinese11">我们在哪儿？</string>
+                <string name="pinyin11">Wǒmen zài nǎ’er?</string>
+                <string name="translation11">Where are we?</string>
+            </string-array>
+            <string-array name="sentence12">
+                <string name="chinese12">我们在饭店。</string>
+                <string name="pinyin12">Wǒmen zài fàn diàn.</string>
+                <string name="translation12">We\'re at a restaurant.</string>
+            </string-array>
+            <string-array name="sentence13">
+                <string name="chinese13">你吃什么？</string>
+                <string name="pinyin13">Nǐ chī shénme?</string>
+                <string name="translation13">What are you eating?</string>
+            </string-array>
+            <string-array name="sentence14">
+                <string name="chinese14">我吃米饭，你呢？</string>
+                <string name="pinyin14">Wǒ chī mǐ fàn, nǐ ne?</string>
+                <string name="translation14">I\'m eating rice, what about you?</string>
+            </string-array>
+            <string-array name="sentence15">
+                <string name="chinese15">我不想吃。</string>
+                <string name="pinyin15">Wǒ bù xiǎng chī.</string>
+                <string name="translation15">I do\'nt want to eat.</string>
+            </string-array>
+            <string-array name="sentence16">
+                <string name="chinese16">你喝水吗？</string>
+                <string name="pinyin16">Nǐ hē shuǐ ma?</string>
+                <string name="translation16">Are you drinking water?</string>
+            </string-array>
+            <string-array name="sentence17">
+                <string name="chinese17">我不喜欢水。</string>
+                <string name="pinyin17">Wǒ bù xǐhuan shuǐ.</string>
+                <string name="translation17">I don\'t like water.</string>
+            </string-array>
+            <string-array name="sentence18">
+                <string name="chinese18">我喝茶。</string>
+                <string name="pinyin18">Wǒ hē chá.</string>
+                <string name="translation18">I\'m drinking tea.</string>
+            </string-array>
+            <string-array name="sentence19">
+                <string name="chinese19">这是什么菜？</string>
+                <string name="pinyin19">Zhè shì shénme cài?</string>
+                <string name="translation19">What dish is this?</string>
+            </string-array>
+            <string-array name="sentence20">
+                <string name="chinese20">这是水果，它很好吃！</string>
+                <string name="pinyin20">Zhè shì shénme cài?</string>
+                <string name="translation20">This is fruit, it\'s very delicious!</string>
+            </string-array>
+        </array>
+
+        <!--Lesson 3-->
+        <!--
+        <array name="lesson3">
+            <string-array name="sentence21">
+                <string name="chinese21"></string>
+                <string name="pinyin21"></string>
+                <string name="translation21"></string>
+            </string-array>
+            <string-array name="sentence22">
+                <string name="chinese22"></string>
+                <string name="pinyin22"></string>
+                <string name="translation22"></string>
+            </string-array>
+            <string-array name="sentence23">
+                <string name="chinese23"></string>
+                <string name="pinyin23"></string>
+                <string name="translation23"></string>
+            </string-array>
+            <string-array name="sentence24">
+                <string name="chinese24"></string>
+                <string name="pinyin24"></string>
+                <string name="translation24"></string>
+            </string-array>
+            <string-array name="sentence25">
+                <string name="chinese25"></string>
+                <string name="pinyin25"></string>
+                <string name="translation25"></string>
+            </string-array>
+            <string-array name="sentence26">
+                <string name="chinese26"></string>
+                <string name="pinyin26"></string>
+                <string name="translation26"></string>
+            </string-array>
+            <string-array name="sentence27">
+                <string name="chinese27"></string>
+                <string name="pinyin27"></string>
+                <string name="translation27"></string>
+            </string-array>
+            <string-array name="sentence28">
+                <string name="chinese28"></string>
+                <string name="pinyin28"></string>
+                <string name="translation28"></string>
+            </string-array>
+            <string-array name="sentence29">
+                <string name="chinese29"></string>
+                <string name="pinyin29"></string>
+                <string name="translation29"></string>
+            </string-array>
+            <string-array name="sentence30">
+                <string name="chinese30"></string>
+                <string name="pinyin30"></string>
+                <string name="translation30"></string>
+            </string-array>
+        </array>
+        -->
+    </array>
+</resources>
