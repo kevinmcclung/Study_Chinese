@@ -6,7 +6,8 @@ OTHERWISE, LOADING LATER LESSONS MAY GET TO BE TOO SLOW BECAUSE OF ALL THE LINES
     <string name="app_name">Study Chinese</string>
     <string name="panda_content_description">An attentive panda sitting on a bamboo bench in the forest.</string>
     <string name="lesson_number">Lesson # </string>
-    <string name="instructions">Enter lesson number and click on panda.</string>
+    <string name="instructions">Enter desired lesson number and click on panda.</string>
+    <string name="of">of</string>
 
     <!--Lesson text follows. Each lesson contains ten sentences.-->
 
@@ -37,6 +38,18 @@ OTHERWISE, LOADING LATER LESSONS MAY GET TO BE TOO SLOW BECAUSE OF ALL THE LINES
         <item name="l2s10">这是水果，它很好吃！Zhè shì shuǐ guǒ, tā hěn hǎo chī! This is fruit, it is very
             delicious!
         </item>
+
+        <!--Lesson 3-->
+        <item name="l3s1">我叫鲁迅。Wǒ jiào Lǔ Xùn. My name is Lu Xun.</item>
+        <item name="l3s2">你叫什么名字？Nǐ jiào shén me míng zì？ What is your name?</item>
+        <item name="l3s3">我喜欢你的名字。Wǒ xǐ huān nǐ dí míng zì. I like your name.</item>
+        <item name="l3s4">你住在哪儿？Nǐ zhù zài nǎ ér？Where do you live?</item>
+        <item name="l3s5">我住在中国。Wǒ zhù zài Zhōng Guó. I live in China.</item>
+        <item name="l3s6">我爱中国。Wǒ ài Zhōng Guó. I love China.</item>
+        <item name="l3s7">我爸爸是中国人。Wǒ bà bà shì Zhōng Guó rén. My father is Chinese.</item>
+        <item name="l3s8">他妈妈是老师。Tā mā mā shì lǎo shī. His mother is a teacher.</item>
+        <item name="l3s9">她会说汉语。Tā huì shuō hàn yǔ. She can speak Chinese.</item>
+        <item name="l3s10">中国人都会说汉语。Zhōng Guó rén duō huì shuō hàn yǔ. Chinese people can all speak Chinese.</item>
 
     </array>
 

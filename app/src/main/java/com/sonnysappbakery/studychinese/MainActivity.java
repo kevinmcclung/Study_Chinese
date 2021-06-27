@@ -64,6 +64,8 @@ public class MainActivity extends AppCompatActivity {
         numberOfLessons = numberOfSentences / 10;
         lessonNumber = 1;
 
+        //populates lists of lessons and sentences from strings.xml
+        //note that all lessons must contain exactly ten sentences
         int index = 0;
         for (int i = 0; i < numberOfLessons; i++) {
             List<String> lesson = new ArrayList<>();
@@ -79,10 +81,10 @@ public class MainActivity extends AppCompatActivity {
             try {
                 lessonNumber = Integer.parseInt(text);
             } catch(NumberFormatException e) {
-                return;
+                return; //when user clicks on panda without entering a number first
             }
             editText.setText("");
-            scrollView.fullScroll(View.FOCUS_UP);
+            scrollView.fullScroll(View.FOCUS_UP); //scroll back up to top
             updateLesson(lessonNumber);
         });
 
@@ -92,7 +94,7 @@ public class MainActivity extends AppCompatActivity {
     public void updateLesson(int lessonNumber) {
         if(lessonNumber < 1) lessonNumber = 1;
         else if(lessonNumber > numberOfLessons) lessonNumber = numberOfLessons;
-        String text = getString(R.string.lesson_number) + lessonNumber + " of " + numberOfLessons;
+        String text = getString(R.string.lesson_number) + lessonNumber + " " + getString(R.string.of) + " " + numberOfLessons;
         textView.setText(text);
 
         textView1.setText(sentenceList.get((lessonNumber - 1) * 10));
