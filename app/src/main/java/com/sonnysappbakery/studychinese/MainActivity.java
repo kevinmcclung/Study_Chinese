@@ -3,8 +3,10 @@ package com.sonnysappbakery.studychinese;
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
+import android.view.View;
 import android.widget.EditText;
 import android.widget.ImageView;
+import android.widget.ScrollView;
 import android.widget.TextView;
 
 import java.util.ArrayList;
@@ -19,6 +21,7 @@ public class MainActivity extends AppCompatActivity {
     int numberOfSentences;
     int numberOfLessons;
     int lessonNumber;
+
     ImageView imageView;
     EditText editText;
     TextView textView1;
@@ -31,6 +34,7 @@ public class MainActivity extends AppCompatActivity {
     TextView textView8;
     TextView textView9;
     TextView textView10;
+    ScrollView scrollView;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -49,6 +53,7 @@ public class MainActivity extends AppCompatActivity {
         textView8 = findViewById(R.id.textView8);
         textView9 = findViewById(R.id.textView9);
         textView10 = findViewById(R.id.textView10);
+        scrollView = findViewById(R.id.scroll);
 
         sentenceArray = getResources().getStringArray(R.array.course);
         sentenceList = new ArrayList<>(Arrays.asList(sentenceArray));
@@ -75,6 +80,7 @@ public class MainActivity extends AppCompatActivity {
                 return;
             }
             editText.setText("");
+            scrollView.fullScroll(View.FOCUS_UP);
             updateLesson(lessonNumber);
         });
 
