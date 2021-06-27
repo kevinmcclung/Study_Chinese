@@ -23,6 +23,7 @@ public class MainActivity extends AppCompatActivity {
     int lessonNumber;
 
     ImageView imageView;
+    TextView textView;
     EditText editText;
     TextView textView1;
     TextView textView2;
@@ -43,6 +44,7 @@ public class MainActivity extends AppCompatActivity {
 
         imageView = findViewById(R.id.imageView);
         editText = findViewById(R.id.editTextNumber);
+        textView = findViewById(R.id.textView);
         textView1 = findViewById(R.id.textView1);
         textView2 = findViewById(R.id.textView2);
         textView3 = findViewById(R.id.textView3);
@@ -90,6 +92,8 @@ public class MainActivity extends AppCompatActivity {
     public void updateLesson(int lessonNumber) {
         if(lessonNumber < 1) lessonNumber = 1;
         else if(lessonNumber > numberOfLessons) lessonNumber = numberOfLessons;
+        String text = getString(R.string.lesson_number) + lessonNumber + " of " + numberOfLessons;
+        textView.setText(text);
 
         textView1.setText(sentenceList.get((lessonNumber - 1) * 10));
         textView2.setText(sentenceList.get(1 + (lessonNumber - 1) * 10));

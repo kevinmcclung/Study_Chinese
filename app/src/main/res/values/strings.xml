@@ -5,6 +5,7 @@ OTHERWISE, LOADING LATER LESSONS MAY GET TO BE TOO SLOW BECAUSE OF ALL THE LINES
 <resources>
     <string name="app_name">Study Chinese</string>
     <string name="panda_content_description">An attentive panda sitting on a bamboo bench in the forest.</string>
+    <string name="lesson_number">Lesson # </string>
     <string name="instructions">Enter lesson number and click on panda.</string>
 
     <!--Lesson text follows. Each lesson contains ten sentences.-->
