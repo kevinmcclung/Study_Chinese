@@ -84,7 +84,6 @@ public class MainActivity extends AppCompatActivity {
                 return; //when user clicks on panda without entering a number first
             }
             editText.setText("");
-            scrollView.fullScroll(View.FOCUS_UP); //scroll back up to top
             updateLesson(lessonNumber);
         });
 
@@ -107,5 +106,8 @@ public class MainActivity extends AppCompatActivity {
         textView8.setText(sentenceList.get(7 + (lessonNumber - 1) * 10));
         textView9.setText(sentenceList.get(8 + (lessonNumber - 1) * 10));
         textView10.setText(sentenceList.get(9 + (lessonNumber - 1) * 10));
+
+        scrollView.fullScroll(View.FOCUS_UP); //scroll back up to top
+        scrollView.fullScroll(View.FOCUS_UP); //scroll back up to top
     }
 }
