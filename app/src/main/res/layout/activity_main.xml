@@ -15,7 +15,10 @@
         android:background="#EDE7E3"
         android:text="@string/app_name"
         android:textColor="#45817C"
-        android:textSize="34sp" />
+        android:textSize="34sp"
+        ads:autoSizeMaxTextSize="60sp"
+        ads:autoSizeMinTextSize="10sp"
+        ads:autoSizeStepGranularity="2sp" />
 
     <EditText
         android:id="@+id/editTextNumber"
@@ -28,7 +31,8 @@
         android:importantForAutofill="no"
         android:inputType="number"
         android:textColor="#45817C"
-        android:textColorHint="#45817C" />
+        android:textColorHint="#45817C"
+        android:textSize="18sp" />
 
     <ImageView
         android:id="@+id/imageView"
@@ -57,7 +61,10 @@
                 android:background="#EDE7E3"
                 android:text="@string/app_name"
                 android:textColor="#EE6C4D"
-                android:textSize="34sp" />
+                android:textSize="34sp"
+                ads:autoSizeMaxTextSize="60sp"
+                ads:autoSizeMinTextSize="10sp"
+                ads:autoSizeStepGranularity="2sp" />
 
             <TextView
                 android:id="@+id/textView2"
@@ -66,7 +73,10 @@
                 android:background="#EDE7E3"
                 android:text="@string/app_name"
                 android:textColor="#45817C"
-                android:textSize="34sp" />
+                android:textSize="34sp"
+                ads:autoSizeMaxTextSize="60sp"
+                ads:autoSizeMinTextSize="10sp"
+                ads:autoSizeStepGranularity="2sp" />
 
             <TextView
                 android:id="@+id/textView3"
@@ -75,7 +85,10 @@
                 android:background="#EDE7E3"
                 android:text="@string/app_name"
                 android:textColor="#EE6C4D"
-                android:textSize="34sp" />
+                android:textSize="34sp"
+                ads:autoSizeMaxTextSize="60sp"
+                ads:autoSizeMinTextSize="10sp"
+                ads:autoSizeStepGranularity="2sp" />
 
             <TextView
                 android:id="@+id/textView4"
@@ -84,7 +97,10 @@
                 android:background="#EDE7E3"
                 android:text="@string/app_name"
                 android:textColor="#45817C"
-                android:textSize="34sp" />
+                android:textSize="34sp"
+                ads:autoSizeMaxTextSize="60sp"
+                ads:autoSizeMinTextSize="10sp"
+                ads:autoSizeStepGranularity="2sp" />
 
             <TextView
                 android:id="@+id/textView5"
@@ -93,7 +109,10 @@
                 android:background="#EDE7E3"
                 android:text="@string/app_name"
                 android:textColor="#EE6C4D"
-                android:textSize="34sp" />
+                android:textSize="34sp"
+                ads:autoSizeMaxTextSize="60sp"
+                ads:autoSizeMinTextSize="10sp"
+                ads:autoSizeStepGranularity="2sp" />
 
             <TextView
                 android:id="@+id/textView6"
@@ -102,7 +121,10 @@
                 android:background="#EDE7E3"
                 android:text="@string/app_name"
                 android:textColor="#45817C"
-                android:textSize="34sp" />
+                android:textSize="34sp"
+                ads:autoSizeMaxTextSize="60sp"
+                ads:autoSizeMinTextSize="10sp"
+                ads:autoSizeStepGranularity="2sp" />
 
             <TextView
                 android:id="@+id/textView7"
@@ -111,7 +133,10 @@
                 android:background="#EDE7E3"
                 android:text="@string/app_name"
                 android:textColor="#EE6C4D"
-                android:textSize="34sp" />
+                android:textSize="34sp"
+                ads:autoSizeMaxTextSize="60sp"
+                ads:autoSizeMinTextSize="10sp"
+                ads:autoSizeStepGranularity="2sp" />
 
             <TextView
                 android:id="@+id/textView8"
@@ -120,7 +145,10 @@
                 android:background="#EDE7E3"
                 android:text="@string/app_name"
                 android:textColor="#45817C"
-                android:textSize="34sp" />
+                android:textSize="34sp"
+                ads:autoSizeMaxTextSize="60sp"
+                ads:autoSizeMinTextSize="10sp"
+                ads:autoSizeStepGranularity="2sp" />
 
             <TextView
                 android:id="@+id/textView9"
@@ -129,7 +157,10 @@
                 android:background="#EDE7E3"
                 android:text="@string/app_name"
                 android:textColor="#EE6C4D"
-                android:textSize="34sp" />
+                android:textSize="34sp"
+                ads:autoSizeMaxTextSize="60sp"
+                ads:autoSizeMinTextSize="10sp"
+                ads:autoSizeStepGranularity="2sp" />
 
             <TextView
                 android:id="@+id/textView10"
@@ -138,7 +169,10 @@
                 android:background="#EDE7E3"
                 android:text="@string/app_name"
                 android:textColor="#45817C"
-                android:textSize="34sp" />
+                android:textSize="34sp"
+                ads:autoSizeMaxTextSize="60sp"
+                ads:autoSizeMinTextSize="10sp"
+                ads:autoSizeStepGranularity="2sp" />
 
         </LinearLayout>
     </ScrollView>
