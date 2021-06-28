@@ -60,8 +60,8 @@ OTHERWISE, LOADING LATER LESSONS MAY GET TO BE TOO SLOW BECAUSE OF ALL THE LINES
         <item name="l4s6">你的电话是多少？Nǐ de diàn huà shì duō shǎo? What is your phone number?</item>
         <item name="l4s7">我的电话是一二三四五六七八九零。Wǒ de diàn huà shì yī èr sān sì wǔ liù qī bā jiǔ líng. My phone number is 1234567890.</item>
         <item name="l4s8">我能打电话吗？Wǒ néng dǎ diànhuà ma? May I make a phone call?</item>
-        <item name="l4s9">没关系。Méi guān xì. That's all right.</item>
-        <item name="l4s10">再见。Zài jiàn. Goodbye.</item>
+        <item name="l4s9">没关系。Méi guān xì. That is all right.</item>-->
+        <item name="l4s10">再见。Zài jiàn. Goodbye.</item>-->
 
         <!--Lesson 5-->
         <item name="l5s1">先生，你好吗？Xiān shēng, nǐ hǎo ma? Sir, are you well?</item>
@@ -69,11 +69,11 @@ OTHERWISE, LOADING LATER LESSONS MAY GET TO BE TOO SLOW BECAUSE OF ALL THE LINES
         <item name="l5s3">王小姐没有电视。Wáng xiǎo jiě méi yǒu diàn shì. Miss Wang does not have a television.</item>
         <item name="l5s4">你想不想看电影？Nǐ xiǎng bù xiǎng kàn diàn yǐng? Do you want to see a movie?</item>
         <item name="l5s5">对不起，我没有钱。Duì bù qǐ, wǒ méi yǒu qián. Sorry, I have no money.</item>
-        <item name="l5s6">没关系，我有很多钱。Méi guān xì, wǒ yǒu hěn duō qián. That's alright, I have a lot of money.</item>
+        <item name="l5s6">没关系，我有很多钱。Méi guān xì, wǒ yǒu hěn duō qián. That is alright, I have a lot of money.</item>
         <item name="l5s7">谢谢你！Xiè xiè nǐ! Thank you!</item>
-        <item name="l5s8">不客气。Bù kè qì. You're welcome.</item>
+        <item name="l5s8">不客气。Bù kè qì. You are welcome.</item>
         <item name="l5s9">我们去看电影。Wǒ men qù kàn diàn yǐng. We are going to see a movie.</item>
-        <item name="l5s10">明天见。Míngtiān jiàn. See you tomorrow.</item>
+        <item name="l5s10">明天见。Míngtiān jiàn. See you tomorrow.</item>-->
 
     </array>
 
