@@ -1,6 +1,7 @@
-<!--AS I EXPAND THIS COURSE,
-I WILL LOOK FOR A BETTER ALTERNATIVE TO PUTTING EVERY SENTENCE OF EVERY LESSON IN THIS XML FILE.
-OTHERWISE, LOADING LATER LESSONS MAY GET TO BE TOO SLOW BECAUSE OF ALL THE LINES THAT NEED TO BE PARSED.-->
+<!--
+I AM SURE THERE MUST BE A BETTER WAY THAN PUTTING THE ENTIRE COURSE CONTENT INTO THE STRINGS.XML FILE LIKE THIS.
+HOWEVER, I TESTED IT OUT AND IT LOOKS LIKE THE APP WILL STILL FUNCTION NORMALLY AT 500 LESSONS.
+-->
 
 <resources>
     <string name="app_name">Study Chinese</string>
@@ -68,7 +69,7 @@ OTHERWISE, LOADING LATER LESSONS MAY GET TO BE TOO SLOW BECAUSE OF ALL THE LINES
         <item name="l4s10">再见。Zàijiàn. Goodbye.</item>-->
 
         <!--Lesson 5-->
-        <item name="l5s1">先生，您好吗？Xiānshēng, nín hǎo ma? Sir, are you well?</item>
+        <item name="l5s1">先生，您好吗？Xiānshēng, nín hǎo ma? Sir, are you well? (您/nín is more formal than 你/nǐ.)</item>
         <item name="l5s2">李先生没有电脑。Lǐ Xiānshēng méiyǒu diànnǎo. Mr. Li does not have a computer.</item>
         <item name="l5s3">王小姐没有电视。Wáng Xiǎojiě méiyǒu diànshì. Miss Wang does not have a television.</item>
         <item name="l5s4">你想不想看电影？Nǐ xiǎng bù xiǎng kàn diànyǐng? Do you want to see a movie?</item>
@@ -130,10 +131,10 @@ OTHERWISE, LOADING LATER LESSONS MAY GET TO BE TOO SLOW BECAUSE OF ALL THE LINES
         <!--Lesson 10-->
         <item name="l10s1">现在是七点钟吗？Xiànzài shì qī diǎn zhōng ma? It it 7:00 now?</item>
         <item name="l10s2">不是七点钟。Bùshì qī diǎn zhōng. It is not 7:00.</item>
-        <item name="l10s3">现在是八点钟吗？Xiànzài shì bā diǎn zhōng ma?</item>
-        <item name="l10s4">不是八点钟。Búshì bā diǎn zhōng. It is not 8:00.</item>
-        <item name="l10s5">现在是几点钟？Xiànzài shì jí diǎn zhōng? What time is it now?</item>
-        <item name="l10s6">现在是上午九点钟。Xiànzài shì shàngwǔ jiú diǎn zhōng. Now it is 9:00 in the morning.</item>
+        <item name="l10s3">现在是几点钟？Xiànzài shì jí diǎn zhōng? What time is it now?</item>
+        <item name="l10s4">现在是八点钟。Xiànzài shì bā diǎn zhōng. Now it is 8:00.</item>
+        <item name="l10s5">商店要上午九点开门。Shāngdiàn yào shàngwǔ jiú diǎn kāimén. The shop will open at 9 in the morning.</item>
+        <item name="l10s6">饭店要下午五点开门。Fàndiàn yào xiàwǔ wú diǎn kāimén. The restaurant will open at 5 in the afternoon.</item>
         <item name="l10s7">昨天是星期一。Zuótiān shì xīngqī yī.Yesterday was Monday.</item>
         <item name="l10s8">今天是星期二。Jīntiān shì xīngqī èr. Today is Tuesday.</item>
         <item name="l10s9">明天是星期三。Míngtiān shì xīngqī sān. Tomorrow is Wednesday.</item>
@@ -176,6 +177,28 @@ OTHERWISE, LOADING LATER LESSONS MAY GET TO BE TOO SLOW BECAUSE OF ALL THE LINES
         <item name="l13s10">我十四岁。Wǒ shísì suì. I am 14.</item>-->
 
         <!--Lesson 14-->
+        <item name="l14s1">我有一个杯子。Wó yǒu yí gè bēizi. I have a cup.</item>
+        <item name="l14s2">杯子里有水。Bēizi lǐ yóu shuǐ. There is water inside the cup.</item>
+        <item name="l14s3">请喝水。Qǐng hē shuǐ. Please drink water.</item>
+        <item name="l14s4">我不喜欢这个杯子。Wǒ bù xǐhuān zhège bēizi. I do not like this cup.</item>
+        <item name="l14s5">我想要那个杯子。Wǒ xiǎng yào nàgè bēizi. I want that cup.</item>
+        <item name="l14s6">它在苹果的前面和书的后面。Tā zài píngguǒ de qiánmiàn hé shū de hòumiàn. It is in front of the apple and behind the book.</item>
+        <item name="l14s7">八十九快钱。Bāshíjiǔ kuài qián. 89 (dollars, yuan or any other country\'s unit of currency).</item>
+        <item name="l14s8">我没有那么多钱。Wǒ méiyǒu nàme duō qián. I do not have that much money.</item>
+        <item name="l14s9">四十五快怎么样？Sìshíwǔ kuài zěnme yàng? How about 45 units of currency?</item>
+        <item name="l14s10">六十七快，好不好？Liùshíqī kuài, hǎo bù hǎo? 67 units of currency, is that okay?</item>
+
+        <!--Lesson 15-->
+        <item name="l15s1">明年我要去清华大学读书。Míngnián wǒ yào qù qīnghuá dàxué dúshū. Next year I will go to Qinghua University to study.</item>
+        <item name="l15s1">我呢，我去哈佛大学。Wǒ ne, wǒ qù Hāfó Dàxué. As for myself, I am going to Harvard University.</item>
+        <item name="l15s1">你高兴吗？Nǐ gāoxìng ma? Are you happy.</item>
+        <item name="l15s1">很高兴。Hěn gāoxìng. Yes, very happy.</item>
+        <item name="l15s1">我很喜欢读书和看书。Wǒ hén xǐhuān dúshū hé kànshū. I like studying and reading a lot.</item>
+        <item name="l15s1">我想去牛津大学看看。Wǒ xiǎng qù Niújīn Dàxué kànkàn. I want to go to Oxford University to take a look.</item>
+        <item name="l15s1">明年见。Míngnián jiàn. See you next year.</item>
+        <item name="l15s1">今天是星期天。今天是星期日。Jīntiān shì xīngqītiān. Jīntiān shì xīngqīrì. Today is Sunday. (Mon. to Sat. are 星期一 through 星期六. Sunday is 星期天 informally and 星期日 formally.)</item>
+        <item name="l15s1">今天是二零二一年六月二十七号。Jīntiān shì èr líng èryī nián liù yuè èrshíqī hào.Today is June 27, 2021. （More casual.)</item>
+        <item name="l15s1">今天是二零二一年六月二十七日。Jīntiān shì èr líng èryī nián liù yuè èrshíqī rì. Today is June 27, 2021. (More formal.)</item>
 
     </array>
 
