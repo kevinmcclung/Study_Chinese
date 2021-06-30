@@ -151,6 +151,32 @@ OTHERWISE, LOADING LATER LESSONS MAY GET TO BE TOO SLOW BECAUSE OF ALL THE LINES
         <item name="l11s1">我们要买一些苹果。Wǒmen yāomǎi yīxiē píngguǒ. We will buy some apples.</item>
         <item name="l11s1">我们也要买衣服。Wǒmen yě yào mǎi yīfu. We will also buy some clothes.</item>
 
+        <!--Lesson 12-->
+        <item name="l12s1">请问，你的生日是什么时候？Qǐngwèn, nǐ de shēngrì shì shénme shíhòu? May I ask when your birthday is?</item>
+        <item name="l12s2">我的生日是一月一日。Wǒ de shēngrì shì yī yuè yī rì. My birthday is January 1.</item>
+        <item name="l12s3">我朋友的生日是二月二日。Wǒ péngyǒu de shēngrì shì èr yuè èr rì. My friend\'s birthday is February 2.</item>
+        <item name="l12s4">我老师的生日是十一月十一日。Wǒ lǎoshī de shēngrì shì shíyī yuè shíyī rì. My teacher\'s birthday is November 11.</item>
+        <item name="l12s5">我同学的生日是十二月十二日。Wǒ tóngxué de shēngrì shì shí\'èr yuè shí\'èr rì. My classmate\'s birthday is December 12.</item>
+        <item name="l12s6">今天是星期几？Jīntiān shì xīngqī jǐ? What day of the week is today?</item>
+        <item name="l12s7">今天是星期六。Jīntiān shì xīngqī liù. Today is Saturday.</item>
+        <item name="l12s8">明天是星期日。Míngtiān shì xīngqī rì. Tomorrow is Sunday.</item>
+        <item name="l12s9">今天是几月几日？Jīntiān shì jǐ yuè jǐ rì? What is today\'s date?</item>
+        <item name="l12s10">今天是七月七日。Jīntiān shì qī yuè qī rì. Today is July 7.</item>-->
+
+        <!--Lesson 13-->
+        <item name="l13s1">这个星期我来了医院。Zhège xīngqī wǒ láile yīyuàn. This week I came to the hospital.</item>
+        <item name="l13s2">我吃了不好的东西。Wǒ chī le bù hǎo de dōngxī. I ate something bad.</item>
+        <item name="l13s3">医生不高兴。Yīshēng bù gāoxìng. The doctor is unhappy.</item>
+        <item name="l13s4">她说，《请睡觉》。Tā shuō, “qǐng shuìjiào”. She says, “please sleep.”</item>
+        <item name="l13s5">我不想睡觉。Wǒ bù xiǎng shuìjiào. I don\'t want to sleep.</item>
+        <item name="l13s6">我想工作。Wǒ xiǎng gōngzuò. I want to work.</item>
+        <item name="l13s7">我不听她。Wǒ bù tīng tā. I do not listen to her.</item>
+        <item name="l13s8">我要回家。Wǒ yào huí jiā. I will return home.</item>
+        <item name="l13s9">你几岁？Nǐ jǐ suì? How old are you?</item>
+        <item name="l13s10">我十四岁。Wǒ shísì suì. I am 14.</item>-->
+
+        <!--Lesson 14-->
+
     </array>
 
 </resources>
