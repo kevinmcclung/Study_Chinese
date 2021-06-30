@@ -108,6 +108,7 @@ public class MainActivity extends AppCompatActivity {
         else if(lessonNumber <= 250) text = text + "5";
         else if (lessonNumber <= 500) text = text + "6";
         else text = text + "7";
+        text = text + "\n";
 
         textView1.setText(text);
         textView2.setText(sentenceList.get((lessonNumber - 1) * 10));
