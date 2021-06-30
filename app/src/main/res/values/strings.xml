@@ -77,6 +77,18 @@ OTHERWISE, LOADING LATER LESSONS MAY GET TO BE TOO SLOW BECAUSE OF ALL THE LINES
         <item name="l5s9">我们去看电影。Wǒ men qù kàn diàn yǐng. We are going to see a movie.</item>
         <item name="l5s10">明天见。Míngtiān jiàn. See you tomorrow.</item>-->
 
+        <!--Lesson 6-->
+        <item name="l6s1">今天我们去北京。Jīn tiān wǒ men qù Běi Jīng. Today we are going to Beijing.</item>
+        <item name="l6s2">北京在哪儿？Běi Jīng zài nǎ er? Where is Beijing?</item>
+        <item name="l6s3">北京在中国。Běi Jīng zài Zhōng Guó.</item>
+        <item name="l6s4">我们怎么去北京？Wǒ men zěn me qù Běi Jīng? How are we going to Beijing?</item>
+        <item name="l6s5">我们坐火车去。Wǒ men zuò huǒ chē qù. We are going by train.</item>
+        <item name="l6s6">我们不坐飞机。Wǒ men bù zuò fēi jī. We are not taking a plane.</item>
+        <item name="l6s7">现在我们去火车站。Xiàn zài wǒ men qù huǒ chē zhàn. Now we are going to the train station.</item>
+        <item name="l6s8">我们坐出租车。Wǒ men zuò chū zū chē. We are taking a taxi.</item>
+        <item name="l6s9">北京的天气很好。Běi jīng de tiān qì hěn hǎo. Beijing\'s weather is very good.</item>
+        <item name="l6s10">我很高兴！Wǒ hěn gāo xìng! I am very happy!</item>
+
     </array>
 
 </resources>
