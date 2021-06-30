@@ -15,6 +15,8 @@ OTHERWISE, LOADING LATER LESSONS MAY GET TO BE TOO SLOW BECAUSE OF ALL THE LINES
 
     <array name="course">
 
+        <!--LEVEL ONE (Lessons 1-15)-->
+
         <!--Lesson 1-->
         <item name="l1s1">好。Hǎo. Good, okay.</item>
         <item name="l1s2">不好。Bù hǎo. Not good, not okay.</item>
@@ -88,6 +90,30 @@ OTHERWISE, LOADING LATER LESSONS MAY GET TO BE TOO SLOW BECAUSE OF ALL THE LINES
         <item name="l6s8">我们坐出租车。Wǒ men zuò chū zū chē. We are taking a taxi.</item>
         <item name="l6s9">北京的天气很好。Běi jīng de tiān qì hěn hǎo. Beijing\'s weather is very good.</item>
         <item name="l6s10">我很高兴！Wǒ hěn gāo xìng! I am very happy!</item>
+
+        <!--Lesson 7-->
+        <item name="l7s1">你喜欢你的学校吗？Nǐ xǐ huān nǐ de xué xiào ma? Do you like your school?</item>
+        <item name="l7s2">喜欢！Xǐ huān! Yes, I like it!</item>
+        <item name="l7s3">老师都很好。Lǎo shī dōu hěn hǎo. The teachers are all very good.</item>
+        <item name="l7s4">我最喜欢我的中文老师。Wǒ zuì xǐ huān wǒ de zhōng wén lǎoshī. I most like my Chinese teacher.</item>
+        <item name="l7s5">你会写中文吗？Nǐ huì xiě zhōng wén ma? Can you write Chinese?</item>
+        <item name="l7s6">我会写十个字。Wǒ huì xiě shí gè zì. I can write ten characters.</item>
+        <item name="l7s7">我有一本书。Wǒ yǒu yī běn shū. I have one book.</item>
+        <item name="l7s8">它在桌子上。Tā zài zhuō zi shàng. It is on the table.</item>
+        <item name="l7s9">你的汉语很好！Nǐ de hàn yǔ hěn hǎo! Your (spoken) Chinese is very good!</item>
+        <item name="l7s10">对不起。我听不懂。Duì bù qǐ. Wǒ tīng bù dǒng. I\'m sorry. I don\'t understand.</item>
+
+        <!--Lesson 8-->
+        <item name="l8s1">你的中文老师是谁？Nǐ de zhōng wén lǎo shī shì shéi? Who is your Chinese teacher?</item>
+        <item name="l8s2">他是陈老师。Tā shì Chén lǎoshī. He is Teacher Chen.</item>
+        <item name="l8s3">我认识他。Wǒ rèn shí tā. I know him.</item>
+        <item name="l8s4">他是我的朋友。Tā shì wǒ de péng yǒu. He is my friend.</item>
+        <item name="l8s5">你认识我的同学吗？Nǐ rèn shí wǒ de tóng xué ma? Do you know my classmate?</item>
+        <item name="l8s6">他叫什么名字？Tā jiào shén me míng zì. What is his name?</item>
+        <item name="l8s7">他叫小赵。Tā jiào Xiǎo Zhào. His name is Young Zhao.</item>
+        <item name="l8s8">不认识。Bù rèn shí. I don\'t know him.</item>
+        <item name="l8s9">学生做什么？Xué shēng zuò shén me? What do students do?</item>
+        <item name="l8s10">学生学习。Xué shēng xué xí. Students study.</item>
 
     </array>
 
