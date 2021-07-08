@@ -7,7 +7,7 @@ HOWEVER, I TESTED IT OUT AND IT LOOKS LIKE THE APP WILL STILL FUNCTION NORMALLY 
     <string name="app_name">Study Chinese</string>
     <string name="panda_content_description">An attentive panda sitting on a bamboo bench in the forest.</string>
     <string name="lesson_number">Lesson #</string>
-    <string name="instructions">Enter desired lesson number and click on panda.</string>
+    <string name="instructions">Enter number and click panda.</string>
     <string name="of">of</string>
     <string name="lesson_title">Lesson</string>
     <string name="level">Level</string>
@@ -106,7 +106,7 @@ HOWEVER, I TESTED IT OUT AND IT LOOKS LIKE THE APP WILL STILL FUNCTION NORMALLY 
 
         <!--Lesson 8-->
         <item name="l8s1">你的中文老师是谁？\nNǐ de zhōngwén lǎoshī shì shéi?\nWho is your Chinese teacher?\n</item>
-        <item name="l8s2">他是陈老师。\nTā shì Chén Lǎoshī.\nHe is Teacher Chen.\n</item>
+        <item name="l8s2">他是陈老师。\nTā shì Chén Lǎoshī.\nHe is Teacher Chen. (NOTE: Address teachers as "Teacher," not "Mr." or "Ms.")\n</item>
         <item name="l8s3">我认识他。\nWǒ rènshí tā.\nI know him.\n</item>
         <item name="l8s4">他是我的朋友。\nTā shì wǒ de péngyǒu.\nHe is my friend.\n</item>
         <item name="l8s5">你认识我的同学吗？\nNǐ rènshí wǒ de tóngxué ma?\nDo you know my classmate?\n</item>
@@ -158,11 +158,11 @@ HOWEVER, I TESTED IT OUT AND IT LOOKS LIKE THE APP WILL STILL FUNCTION NORMALLY 
         <item name="l12s3">我朋友的生日是二月二号。\nWǒ péngyǒu de shēngrì shì èr yuè èr hào.\nMy friend\'s birthday is February 2.\n</item>
         <item name="l12s4">我老师的生日是十一月十一号。\nWǒ lǎoshī de shēngrì shì shíyī yuè shíyī hào.\nMy teacher\'s birthday is November 11.\n</item>
         <item name="l12s5">我同学的生日是十二月十二号。\nWǒ tóngxué de shēngrì shì shí\'èr yuè shí\'èr hào.\nMy classmate\'s birthday is December 12.\n</item>
-        <item name="l12s6">今天是星期几？\nJīntiān shì xīngqī jǐ?\nWhat day of the week is today?\n</item>
-        <item name="l12s7">今天是星期六。\nJīntiān shì xīngqī liù.\nToday is Saturday.\n</item>
-        <item name="l12s8">明天是星期天。\nMíngtiān shì xīngqī tiān.\nTomorrow is Sunday.\n</item>
-        <item name="l12s9">今天是几月几号？\nJīntiān shì jǐ yuè jǐ hào?\nWhat is today\'s date?\n</item>
-        <item name="l12s10">今天是七月七号。\nJīntiān shì qī yuè qī hào.\nToday is July 7.</item>-->
+        <item name="l12s6">今天星期几？\nJīntiān xīngqī jǐ?\nWhat day of the week is today?\n</item>
+        <item name="l12s7">今天星期六。\nJīntiān xīngqī liù.\nToday is Saturday.\n</item>
+        <item name="l12s8">明天星期天。\nMíngtiān xīngqī tiān.\nTomorrow is Sunday.\n</item>
+        <item name="l12s9">今天几月几号？\nJīntiān jǐ yuè jǐ hào?\nWhat is today\'s date?\n</item>
+        <item name="l12s10">今天七月七号。\nJīntiān qī yuè qī hào.\nToday is July 7.</item>-->
 
         <!--Lesson 13-->
         <item name="l13s1">这个星期我来了医院。Zhège xīngqī wǒ láile yīyuàn.\nThis week I came to the hospital.\n</item>
@@ -185,7 +185,7 @@ HOWEVER, I TESTED IT OUT AND IT LOOKS LIKE THE APP WILL STILL FUNCTION NORMALLY 
         <item name="l14s6">它在苹果的前面和书的后面。\nTā zài píngguǒ de qiánmiàn hé shū de hòumiàn.\nIt is in front of the apple and behind the book.\n</item>
         <item name="l14s7">八十九快钱。\nBāshíjiǔ kuài qián.\n89 (dollars, yuan or any other country\'s unit of currency).\n</item>
         <item name="l14s8">我没有那么多钱。\nWǒ méiyǒu nàme duō qián.\nI do not have that much money.\n</item>
-        <item name="l14s9">四十五快怎么样？\nSìshíwǔ kuài zěnme yàng?\nHow about 45 units of currency?\n</item>
+        <item name="l14s9">四十五快怎么样？\nSìshíwǔ kuài zěnmeyàng?\nHow about 45 units of currency?\n</item>
         <item name="l14s10">六十七快，好不好？\nLiùshíqī kuài, hǎo bù hǎo?\n67 units of currency, is that okay?\n</item>
 
         <!--Lesson 15-->
@@ -193,12 +193,12 @@ HOWEVER, I TESTED IT OUT AND IT LOOKS LIKE THE APP WILL STILL FUNCTION NORMALLY 
         <item name="l15s1">我呢，我去哈佛大学。\nWǒ ne, wǒ qù Hāfó Dàxué.\nAs for myself, I am going to Harvard University.\n</item>
         <item name="l15s1">你高兴吗？\nNǐ gāoxìng ma?\nAre you happy?\n</item>
         <item name="l15s1">很高兴。\nHěn gāoxìng.\nYes, very happy.\n</item>
-        <item name="l15s1">我很喜欢读书和看书。\nWǒ hěn xǐhuān dúshū hé kànshū.\nI like studying and reading a lot.\n</item>
+        <item name="l15s1">我很喜欢看书和学习。\nWǒ hěn xǐhuān kànshū hé xuéxí.\nI like reading and studying a lot. (NOTE: 学 is to learn, 学习 is to study as in for a test, and 读书 is to study as in at a school)\n</item>
         <item name="l15s1">我想去牛津大学看看。\nWǒ xiǎng qù Niújīn Dàxué kànkàn.\nI want to go to Oxford University to take a look.\n</item>
         <item name="l15s1">明年见。\nMíngnián jiàn.\nSee you next year.\n</item>
-        <item name="l15s1">今天是星期天。今天是星期日。\nJīntiān shì xīngqītiān. Jīntiān shì xīngqīrì.\nToday is Sunday. (Mon. to Sat. are 星期一 through 星期六. Sunday is 星期天 informally or 星期日 formally.)\n</item>
-        <item name="l15s1">今天是二零二一年六月二十七号。\nJīntiān shì èr líng èr yī nián liù yuè èrshíqī hào.\nToday is June 27, 2021. （More casual.)\n</item>
-        <item name="l15s1">今天是二零二一年六月二十七日。\nJīntiān shì èr líng èr yī nián liù yuè èrshíqī rì.\nToday is June 27, 2021. (More formal.)\n</item>
+        <item name="l15s1">今天星期天。今天星期日。\nJīntiān xīngqītiān. Jīntiān xīngqīrì.\nToday is Sunday. (Mon. to Sat. are 星期一 through 星期六. Sunday is 星期天 informally or 星期日 formally.)\n</item>
+        <item name="l15s1">今天二零二一年六月二十七号。\nJīntiān èr líng èr yī nián liù yuè èrshíqī hào.\nToday is June 27, 2021. （More casual.)\n</item>
+        <item name="l15s1">今天二零二一年六月二十七日。\nJīntiān èr líng èr yī nián liù yuè èrshíqī rì.\nToday is June 27, 2021. (More formal.)\n</item>
 
     </array>
 
