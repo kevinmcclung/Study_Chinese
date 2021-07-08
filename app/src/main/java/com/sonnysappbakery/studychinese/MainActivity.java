@@ -14,6 +14,8 @@ import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
 
+//Panda photo by Ying Wu, used with Unsplash license
+
 public class MainActivity extends AppCompatActivity {
 
     String[] sentenceArray;
