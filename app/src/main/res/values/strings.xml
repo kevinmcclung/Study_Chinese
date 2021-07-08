@@ -22,13 +22,13 @@ HOWEVER, I TESTED IT OUT AND IT LOOKS LIKE THE APP WILL STILL FUNCTION NORMALLY 
         <item name="l1s1">好。\nHǎo.\nGood, okay.\n</item>
         <item name="l1s2">不好。\nBù hǎo.\nNot good, not okay.\n</item>
         <item name="l1s3">好不好？\nHǎo bù hǎo?\nOkay?\n</item>
-        <item name="l1s4">很好。\nHén hǎo.\nVery good.\n</item>
-        <item name="l1s5">你好。\nNí hǎo.\nHello.\n</item>
-        <item name="l1s6">你好吗？\nNí hǎo ma?\nAre you well?\n</item>
+        <item name="l1s4">很好。\nHěn hǎo.\nVery good.\n</item>
+        <item name="l1s5">你好。\nNǐ hǎo.\nHello.\n</item>
+        <item name="l1s6">你好吗？\nNǐ hǎo ma?\nAre you well?\n</item>
         <item name="l1s7">你们好。\nNǐmen hǎo.\nHi, guys.\n</item>
         <item name="l1s8">你们好吗？\nNǐmen hǎo ma?\nAre you guys well?\n</item>
-        <item name="l1s9">我很好。\nWǒ hén hǎo.\nI am very good.\n</item>
-        <item name="l1s10">我们很好，谢谢。\nWǒmen hén hǎo, xièxiè.\nWe are very good, thanks.\n</item>
+        <item name="l1s9">我很好。\nWǒ hěn hǎo.\nI am very good.\n</item>
+        <item name="l1s10">我们很好，谢谢。\nWǒmen hěn hǎo, xièxiè.\nWe are very good, thanks.\n</item>
 
         <!--Lesson 2-->
         <item name="l2s1">我们在哪儿？\nWǒmen zài nǎ’er?\nWhere are we?\n</item>
@@ -40,7 +40,7 @@ HOWEVER, I TESTED IT OUT AND IT LOOKS LIKE THE APP WILL STILL FUNCTION NORMALLY 
         <item name="l2s7">我不喜欢水。\nWǒ bù xǐhuān shuǐ.\nI do not like water.\n</item>
         <item name="l2s8">我喝茶。\nWǒ hē chá.\nI am drinking tea.\n</item>
         <item name="l2s9">这是什么菜？\nZhè shì shénme cài?\nWhat dish is this?\n</item>
-        <item name="l2s10">这是水果，它很好吃！\nZhè shì shuíguǒ, tā hén hǎo chī!\nThis is fruit, it is very
+        <item name="l2s10">这是水果，它很好吃！\nZhè shì shuǐguǒ, tā hěn hǎo chī!\nThis is fruit, it is very
             delicious!\n
         </item>
 
@@ -58,8 +58,8 @@ HOWEVER, I TESTED IT OUT AND IT LOOKS LIKE THE APP WILL STILL FUNCTION NORMALLY 
 
         <!--Lesson 4-->
         <item name="l4s1">你有几个苹果？\nNǐ yǒu jǐ gè píngguǒ?\nHow many apples do you have?\n</item>
-        <item name="l4s2">我有一个苹果。\nWó yǒu yí gè píng guǒ.\nI have one apple.\n</item>
-        <item name="l4s3">他有三个儿子。他们很小。\nTā yǒu sān gè érzi. Tāmen hén xiǎo.\nHe has three sons. They are very little.\n</item>
+        <item name="l4s2">我有一个苹果。\nWǒ yǒu yī gè píngguǒ.\nI have one apple.\n</item>
+        <item name="l4s3">他有三个儿子。他们很小。\nTā yǒu sān gè érzi. Tāmen hěn xiǎo.\nHe has three sons. They are very little.\n</item>
         <item name="l4s4">她有五个女儿。她们很大。\nTā yǒu wǔ gè nǚ\'ér. Tāmen hěn dà.\nShe has five daughters. They are very big.\n</item>
         <item name="l4s5">他们有四个儿子和六个女儿。\nTāmen yǒu sì gè érzi hé liù gè nǚ\'ér.\nThey have four sons and six daughters.\n</item>
         <item name="l4s6">你的电话是多少？\nNǐ de diànhuà shì duōshǎo?\nWhat is your phone number?\n</item>
@@ -74,9 +74,9 @@ HOWEVER, I TESTED IT OUT AND IT LOOKS LIKE THE APP WILL STILL FUNCTION NORMALLY 
         <item name="l5s3">王小姐没有电视。\nWáng Xiǎojiě méiyǒu diànshì.\nMiss Wang does not have a television.\n</item>
         <item name="l5s4">你想不想看电影？\nNǐ xiǎng bù xiǎng kàn diànyǐng?\nDo you want to see a movie?\n</item>
         <item name="l5s5">对不起，我没有钱。\nDuìbùqǐ, wǒ méiyǒu qián.\nSorry, I have no money.\n</item>
-        <item name="l5s6">没关系，我有很多钱。\nMéiguānxì, wó yǒu hěnduō qián.\nThat is alright, I have a lot of money.\n</item>
+        <item name="l5s6">没关系，我有很多钱。\nMéiguānxì, wǒ yǒu hěnduō qián.\nThat is alright, I have a lot of money.\n</item>
         <item name="l5s7">谢谢你！\nXièxiè nǐ!\nThank you!\n</item>
-        <item name="l5s8">不客气。\nBú kèqì.\nYou are welcome.\n</item>
+        <item name="l5s8">不客气。\nBù kèqì.\nYou are welcome.\n</item>
         <item name="l5s9">我们去看电影。\nWǒmen qù kàn diànyǐng.\nWe are going to see a movie.\n</item>
         <item name="l5s10">明天见。\nMíngtiān jiàn.\nSee you tomorrow.\n</item>-->
 
@@ -86,22 +86,22 @@ HOWEVER, I TESTED IT OUT AND IT LOOKS LIKE THE APP WILL STILL FUNCTION NORMALLY 
         <item name="l6s3">北京在中国。\nBěijīng zài Zhōngguó.\nBeijing is in China.\n</item>
         <item name="l6s4">我们怎么去北京？\nWǒmen zěnme qù Běijīng?\nHow are we going to Beijing?\n</item>
         <item name="l6s5">我们坐火车去。\nWǒmen zuò huǒchē qù.\nWe are going by train.\n</item>
-        <item name="l6s6">我们不坐飞机。\nWǒmen bú zuò fēijī.\nWe are not taking a plane.\n</item>
+        <item name="l6s6">我们不坐飞机。\nWǒmen bù zuò fēijī.\nWe are not taking a plane.\n</item>
         <item name="l6s7">现在我们去火车站。\nXiànzài wǒmen qù huǒchēzhàn.\nNow we are going to the train station.\n</item>
         <item name="l6s8">我们坐出租车。\nWǒmen zuò chūzūchē.\nWe are taking a taxi.\n</item>
-        <item name="l6s9">北京的天气很好。\nBěijīng de tiānqì hén hǎo.\nBeijing\'s weather is very good.\n</item>
-        <item name="l6s10">我很高兴！\nWó hěn gāoxìng! \nI am very happy!\n</item>
+        <item name="l6s9">北京的天气很好。\nBěijīng de tiānqì hěn hǎo.\nBeijing\'s weather is very good.\n</item>
+        <item name="l6s10">我很高兴！\nWǒ hěn gāoxìng! \nI am very happy!\n</item>
 
         <!--Lesson 7-->
         <item name="l7s1">你喜欢你的学校吗？\nNǐ xǐhuān nǐ de xuéxiào ma?\nDo you like your school?\n</item>
         <item name="l7s2">喜欢！\nXǐhuān!\nYes, I like it!\n</item>
-        <item name="l7s3">老师都很好。\nLǎoshī dōu hén hǎo.\nThe teachers are all very good.\n</item>
+        <item name="l7s3">老师都很好。\nLǎoshī dōu hěn hǎo.\nThe teachers are all very good.\n</item>
         <item name="l7s4">我最喜欢我的中文老师。\nWǒ zuì xǐhuān wǒ de zhōngwén lǎoshī.\nI most like my Chinese teacher.\n</item>
         <item name="l7s5">你会写中文吗？\nNǐ huì xiě zhōngwén ma?\nCan you write Chinese?\n</item>
         <item name="l7s6">我会写十个字。\nWǒ huì xiě shí gè zì.\nI can write ten characters.\n</item>
-        <item name="l7s7">我有一本书。\nWó yǒu yī běn shū.\nI have one book.\n</item>
+        <item name="l7s7">我有一本书。\nWǒ yǒu yī běn shū.\nI have one book.\n</item>
         <item name="l7s8">它在桌子上。\nTā zài zhuōzi shàng.\nIt is on the table.\n</item>
-        <item name="l7s9">你的汉语很好！\nNǐ de hànyǔ hén hǎo!\nYour (spoken) Chinese is very good!\n</item>
+        <item name="l7s9">你的汉语很好！\nNǐ de hànyǔ hěn hǎo!\nYour (spoken) Chinese is very good!\n</item>
         <item name="l7s10">对不起。我听不懂。\nDuì bù qǐ. Wǒ tīng bù dǒng.\nI\'m sorry. I don\'t understand.\n</item>
 
         <!--Lesson 8-->
@@ -112,7 +112,7 @@ HOWEVER, I TESTED IT OUT AND IT LOOKS LIKE THE APP WILL STILL FUNCTION NORMALLY 
         <item name="l8s5">你认识我的同学吗？\nNǐ rènshí wǒ de tóngxué ma?\nDo you know my classmate?\n</item>
         <item name="l8s6">他叫什么名字？\nTā jiào shénme míngzì?\nWhat is his name?\n</item>
         <item name="l8s7">他叫小赵。\nTā jiào Xiǎo Zhào.\nHis name is Young Zhao.\n</item>
-        <item name="l8s8">不认识。\nBú rènshí.\nI don\'t know him.\n</item>
+        <item name="l8s8">不认识。\nBù rènshí.\nI don\'t know him.\n</item>
         <item name="l8s9">学生做什么？\nXuéshēng zuò shénme?\nWhat do students do?\n</item>
         <item name="l8s10">学生学习。\nXuéshēng xuéxí.\nStudents study.\n</item>
 
@@ -120,21 +120,21 @@ HOWEVER, I TESTED IT OUT AND IT LOOKS LIKE THE APP WILL STILL FUNCTION NORMALLY 
         <item name="l9s1">今天的天气怎么样？\nJīntiān de tiānqì zěnmeyàng?\nHow is the weather today?\n</item>
         <item name="l9s2">今天很热。\nJīntiān hěn rè.\nToday is very hot.\n</item>
         <item name="l9s3">明天呢？\nMíngtiān ne?\nWhat about tomorrow?\n</item>
-        <item name="l9s4">明天很冷。\nMíngtiān hén lěng.\nTomorrow is very cold.\n</item>
+        <item name="l9s4">明天很冷。\nMíngtiān hěn lěng.\nTomorrow is very cold.\n</item>
         <item name="l9s5">今天上午下雨了。\nJīntiān shàngwǔ xiàyǔ le.\nThis morning it rained.\n</item>
         <item name="l9s6">今天下午也下雨了。\nJīntiān xiàwǔ yě xiàyǔ le.\nThis afternoon it also rained.\n</item>
         <item name="l9s7">今天晚上也会下雨。\nJīntiān wǎnshàng yě huì xiàyǔ.\nThis evening it will also rain.\n</item>
         <item name="l9s8">昨天没有下雨。\nZuótiān méiyǒu xiàyǔ.\nYesterday it did not rain.\n</item>
-        <item name="l9s9">明天也不会下雨。\nMíngtiān yě bú huì xià yǔ.\nTomorrow it will not rain either.\n</item>
+        <item name="l9s9">明天也不会下雨。\nMíngtiān yě bù huì xià yǔ.\nTomorrow it will not rain either.\n</item>
         <item name="l9s10">中午呢？\nZhōngwǔ ne?\nWhat about at noon?\n</item>
 
         <!--Lesson 10-->
         <item name="l10s1">现在是七点钟吗？\nXiànzài shì qī diǎn zhōng ma?\nIs it 7:00 now?\n</item>
         <item name="l10s2">不是七点钟。\nBùshì qī diǎn zhōng.\nIt is not 7:00.\n</item>
-        <item name="l10s3">现在是几点钟？\nXiànzài shì jí diǎn zhōng?\nWhat time is it now?\n</item>
+        <item name="l10s3">现在是几点钟？\nXiànzài shì jǐ diǎn zhōng?\nWhat time is it now?\n</item>
         <item name="l10s4">现在是八点钟。\nXiànzài shì bā diǎn zhōng.\nNow it is 8:00.\n</item>
-        <item name="l10s5">商店要上午九点开门。\nShāngdiàn yào shàngwǔ jiú diǎn kāimén.\nThe shop will open at 9 in the morning.\n</item>
-        <item name="l10s6">饭店要下午五点开门。\nFàndiàn yào xiàwǔ wú diǎn kāimén.\nThe restaurant will open at 5 in the afternoon.\n</item>
+        <item name="l10s5">商店要上午九点开门。\nShāngdiàn yào shàngwǔ jiǔ diǎn kāimén.\nThe shop will open at 9 in the morning.\n</item>
+        <item name="l10s6">饭店要下午五点开门。\nFàndiàn yào xiàwǔ wǔ diǎn kāimén.\nThe restaurant will open at 5 in the afternoon.\n</item>
         <item name="l10s7">昨天是星期一。\nZuótiān shì xīngqī yī.\nYesterday was Monday.\n</item>
         <item name="l10s8">今天是星期二。\nJīntiān shì xīngqī èr.\nToday is Tuesday.\n</item>
         <item name="l10s9">明天是星期三。\nMíngtiān shì xīngqī sān.\nTomorrow is Wednesday.\n</item>
@@ -142,11 +142,11 @@ HOWEVER, I TESTED IT OUT AND IT LOOKS LIKE THE APP WILL STILL FUNCTION NORMALLY 
 
         <!--Lesson 11-->
         <item name="l11s1">我的狗在桌子下。\nWǒ de gǒu zài zhuōzi xià.\nMy dog is under the table.\n</item>
-        <item name="l11s1">我的猫在椅子上。\nWǒ de māo zài yízi shàng.\nMy cat is on the chair.\n</item>
+        <item name="l11s1">我的猫在椅子上。\nWǒ de māo zài yǐzi shàng.\nMy cat is on the chair.\n</item>
         <item name="l11s1">你的狗太大了。\nNǐ de gǒu tài dà le.\nYour dog is too big.\n</item>
-        <item name="l11s1">你的猫太小了。\nNǐ de māo tài xiǎole.\nYour cat is too small.\n</item>
+        <item name="l11s1">你的猫太小了。\nNǐ de māo tài xiǎo le.\nYour cat is too small.\n</item>
         <item name="l11s1">你有几个苹果？\nNǐ yǒu jǐ gè píngguǒ?\nHow many apples do you have?\n</item>
-        <item name="l11s1">我有两个。\nWó yǒu liǎng gè.\nI have two.\n</item>
+        <item name="l11s1">我有两个。\nWǒ yǒu liǎng gè.\nI have two.\n</item>
         <item name="l11s1">太少了。\nTài shǎo le.\nToo few.\n</item>
         <item name="l11s1">我们要去商店。\nWǒmen yào qù shāngdiàn.\nWe are going to go to the store.\n</item>
         <item name="l11s1">我们要买一些苹果。\nWǒmen yào mǎi yīxiē píngguǒ. \nWe will buy some apples.\n</item>
@@ -166,7 +166,7 @@ HOWEVER, I TESTED IT OUT AND IT LOOKS LIKE THE APP WILL STILL FUNCTION NORMALLY 
 
         <!--Lesson 13-->
         <item name="l13s1">这个星期我来了医院。Zhège xīngqī wǒ láile yīyuàn.\nThis week I came to the hospital.\n</item>
-        <item name="l13s2">我吃了一点不好的东西。\nWǒ chī le diǎn bù hǎo de dōngxī.\nI ate something bad.\n</item>
+        <item name="l13s2">我吃了一点不好的东西。\nWǒ chī le yī diǎn bù hǎo de dōngxī.\nI ate something bad.\n</item>
         <item name="l13s3">医生不高兴。\nYīshēng bù gāoxìng.\nThe doctor is unhappy.\n</item>
         <item name="l13s4">她说，《请睡觉》。\nTā shuō, “qǐng shuìjiào”.\nShe says, “please sleep.”\n</item>
         <item name="l13s5">我不想睡觉。\nWǒ bù xiǎng shuìjiào.\nI don\'t want to sleep.\n</item>
@@ -177,11 +177,11 @@ HOWEVER, I TESTED IT OUT AND IT LOOKS LIKE THE APP WILL STILL FUNCTION NORMALLY 
         <item name="l13s10">我十二岁。\nWǒ shí\'èr suì.\nI am 12.\n</item>-->
 
         <!--Lesson 14-->
-        <item name="l14s1">我有一个杯子。\nWó yǒu yí gè bēizi.\nI have a cup.\n</item>
-        <item name="l14s2">杯子里有水。\nBēizi lǐ yóu shuǐ.\nThere is water inside the cup.\n</item>
+        <item name="l14s1">我有一个杯子。\nWǒ yǒu yī gè bēizi.\nI have a cup.\n</item>
+        <item name="l14s2">杯子里有水。\nBēizi lǐ yǒu shuǐ.\nThere is water inside the cup.\n</item>
         <item name="l14s3">请喝水。\nQǐng hē shuǐ.\nPlease drink water.\n</item>
         <item name="l14s4">我不喜欢这个杯子。\nWǒ bù xǐhuān zhège bēizi.\nI do not like this cup.\n</item>
-        <item name="l14s5">我想要那个杯子。\nWó xiǎng yào nàgè bēizi.\nI want that cup.\n</item>
+        <item name="l14s5">我想要那个杯子。\nWǒ xiǎng yào nàgè bēizi.\nI want that cup.\n</item>
         <item name="l14s6">它在苹果的前面和书的后面。\nTā zài píngguǒ de qiánmiàn hé shū de hòumiàn.\nIt is in front of the apple and behind the book.\n</item>
         <item name="l14s7">八十九快钱。\nBāshíjiǔ kuài qián.\n89 (dollars, yuan or any other country\'s unit of currency).\n</item>
         <item name="l14s8">我没有那么多钱。\nWǒ méiyǒu nàme duō qián.\nI do not have that much money.\n</item>
@@ -193,7 +193,7 @@ HOWEVER, I TESTED IT OUT AND IT LOOKS LIKE THE APP WILL STILL FUNCTION NORMALLY 
         <item name="l15s1">我呢，我去哈佛大学。\nWǒ ne, wǒ qù Hāfó Dàxué.\nAs for myself, I am going to Harvard University.\n</item>
         <item name="l15s1">你高兴吗？\nNǐ gāoxìng ma?\nAre you happy?\n</item>
         <item name="l15s1">很高兴。\nHěn gāoxìng.\nYes, very happy.\n</item>
-        <item name="l15s1">我很喜欢读书和看书。\nWǒ hén xǐhuān dúshū hé kànshū.\nI like studying and reading a lot.\n</item>
+        <item name="l15s1">我很喜欢读书和看书。\nWǒ hěn xǐhuān dúshū hé kànshū.\nI like studying and reading a lot.\n</item>
         <item name="l15s1">我想去牛津大学看看。\nWǒ xiǎng qù Niújīn Dàxué kànkàn.\nI want to go to Oxford University to take a look.\n</item>
         <item name="l15s1">明年见。\nMíngnián jiàn.\nSee you next year.\n</item>
         <item name="l15s1">今天是星期天。今天是星期日。\nJīntiān shì xīngqītiān. Jīntiān shì xīngqīrì.\nToday is Sunday. (Mon. to Sat. are 星期一 through 星期六. Sunday is 星期天 informally or 星期日 formally.)\n</item>
