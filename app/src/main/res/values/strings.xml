@@ -200,6 +200,18 @@ HOWEVER, I TESTED IT OUT AND IT LOOKS LIKE THE APP WILL STILL FUNCTION NORMALLY 
         <item name="l15s1">今天二零二一年六月二十七号。\nJīntiān èr líng èr yī nián liù yuè èrshíqī hào.\nToday is June 27, 2021. （More casual.)\n</item>
         <item name="l15s1">今天二零二一年六月二十七日。\nJīntiān èr líng èr yī nián liù yuè èrshíqī rì.\nToday is June 27, 2021. (More formal.)\n</item>
 
+        <!--Lesson 16-->
+        <item name="l15s1">你喜欢跑步吗？\nNǐ xǐhuān pǎobù ma?\nDo you like running?\n</item>
+        <item name="l15s1">我最喜欢游泳。\nWǒ zuì xǐhuān yóuyǒng.\nI most like swimming.\n</item>
+        <item name="l15s1">我哥哥喜欢打篮球。\nWǒ gēge xǐhuān dǎ lánqiú.\nMy older brother likes to play basketball.\n</item>
+        <item name="l15s1">他打得非常好。\nTā dǎ de fēicháng hǎo.\nHe plays extremely well.\n</item>
+        <item name="l15s1">我弟弟喜欢踢足球。\nWǒ dìdi xǐhuān tī zúqiú.\nMy younger brother likes to play soccer.\n</item>
+        <item name="l15s1">我姐姐喜欢唱歌。\nWǒ jiějie xǐhuān chànggē.\nMy older sister likes to sing songs.\n</item>
+        <item name="l15s1">我妹妹喜欢考试。\nWǒ mèimei xǐhuān kǎoshì.\nMy younger sister likes to take tests.\n</item>
+        <item name="l15s1">我们休息吧。\nWǒmen xiūxi ba.\nLet us rest.\n</item>
+        <item name="l15s1">我们可以喝咖啡。\nWǒmen kěyǐ hē kāfēi.\nWe can drink coffee.\n</item>
+        <item name="l15s1">咖啡很便宜。\nKāfēi hěn piányi.\nCoffee is very cheap.\n</item>
+
     </array>
 
 </resources>
